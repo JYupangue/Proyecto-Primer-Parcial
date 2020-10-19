@@ -83,7 +83,7 @@ public class verificador {
 				
 			}
 			
-			jorgeyjosue = InetAddress.getByName("localhost");
+			jorgeyjosue = InetAddress.getByName("10.10.10.1");
 		    client = new Socket(jorgeyjosue, 9999);
 		    dos = new DataOutputStream(client.getOutputStream());
 	       
@@ -134,7 +134,7 @@ public class verificador {
           arr_res = res.toArray( new String[ 0 ] );
 
       } else
-          System.err.println( "¡ Path NO válido !" );
+          System.err.println( "Â¡ Path NO vÃ¡lido !" );
 
 
       return arr_res;
