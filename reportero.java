@@ -56,7 +56,7 @@ public class reportero {
 
 			    
 
-		        FileWriter file = new FileWriter("C:\\Users\\Dell\\Documents\\Universidad\\7mo semestre\\Sistemas distribuidos\\Proyecto\\reportero\\prueba.json");
+		        FileWriter file = new FileWriter("prueba.json");
 
 		        
 		        obj.put("Agente", age);
