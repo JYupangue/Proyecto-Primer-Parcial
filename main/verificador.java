@@ -27,7 +27,7 @@ public class verificador {
         InetAddress jorgeyjosue;
 		JSONParser parser = new JSONParser();
 		
-		 String path = "C:\\Users\\Dell\\Documents\\Universidad\\7mo semestre\\Sistemas distribuidos\\Proyecto\\verificador";
+		 String path = "verificador";
 
 
          String[] files = getFiles( path );
