@@ -5,6 +5,7 @@ En el cumplimiento del proyecto del primer parcial se expondra a continuacion lo
 Instalar virtualbox, proceder a crear dos nodos y estos esten conectandos por un adaptador de red nat, y estos mismo esten conectados por una red interna
 - Instar jdk en ambos terminales
 - Instalar Git en ambos terminales
+- Instalar json-simple.jar en eclipse
 
 # Trabajando en las maquinas virtuales
 - Como primer paso se procedio a clonar los respositorios en ambas maquinas virtuales con el comando " git clone"[url_del_repositorio].
