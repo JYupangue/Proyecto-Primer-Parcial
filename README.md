@@ -8,6 +8,7 @@ Instalar virtualbox, proceder a crear dos nodos y estos esten conectandos por un
 
 # Trabajando en las maquinas virtuales
 - Como primer paso se procedio a clonar los respositorios en ambas maquinas virtuales con el comando " git clone"[url_del_repositorio].
+- Se instalada por consola json en con el siguiente comando sudo apt-get install -y libjson-simple-java
 - Para hacer uso de la libreria puesta en el respositorio se hace uso del comando export CLASSPATH=json-simple-1.1.jar:$CLASSPATH.
 - Se procede a ejecutar la clase reportero.java en el primer nodo con el comando java por delante es decir, java reportero.
 - Despues de ejecutar dicha clase en el nodo1 se procede a ejecutar la clase verificador.java en el segundo nodo con el comando java por delante es decir, java reportero.
