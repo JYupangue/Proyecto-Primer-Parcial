@@ -1,27 +1,12 @@
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.Iterator;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
-
-
 import java.io.FileWriter;
-import java.io.IOException;
-
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-
-
-import java.io.InputStream;
-import java.net.InetAddress;
 import java.net.ServerSocket; 
 import java.net.Socket; 
 import java.io.DataInputStream;
-import java.io.DataOutputStream;
+
 
 public class reportero {
 
