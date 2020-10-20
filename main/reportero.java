@@ -9,7 +9,7 @@ import java.io.DataInputStream;
 
 
 public class reportero {
-
+@SuppressWarnings("unchecked")
 	public static void main(String[] args) {
 
 		JSONObject obj = new JSONObject();
