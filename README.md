@@ -15,5 +15,6 @@ Instalar virtualbox, proceder a crear dos nodos y estos esten conectandos por un
 
 # Explicacion de la visualizacion
 
-En el nodo1 donde se ejecuto la clase reportero se visualizara un texto diciendo prueba, este da por entendido que se ha ejecutado la clase satisfactoriamente, procedentemente en el nodo 2 se visualizara los json leidos de la carpeta verificador creada en el repositorio
+En el nodo1 donde se ejecuto la clase reportero se visualizara un texto diciendo prueba, este da por entendido que se ha ejecutado la clase satisfactoriamente, procedentemente en el nodo 2 se visualizara los json leidos de la carpeta verificador creada en el repositorio.
+Una ves ejecutadas las dos clases en ambos nodos, se creara un archivo json, el cual se podra acceder abrirlo en la terminal con el comando "nano" [nombre del archivo json]
 
