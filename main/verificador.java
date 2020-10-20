@@ -19,7 +19,8 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 
 public class verificador {
-  public static void main(String[] args) {
+@SuppressWarnings("unchecked")  
+public static void main(String[] args) {
 
 	  
 	    Socket client;
